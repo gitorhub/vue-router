@@ -3,6 +3,7 @@
         <h1>Jobs Detail</h1>
         <p>The Job id is : {{id}} </p>
 
+
     </div>
 </template>
 <script>
