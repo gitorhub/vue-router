@@ -29,6 +29,31 @@ export default {
     
 }
 </script>
-<style lang="">
+<style >
+.jobs {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+  flex-wrap: wrap;
+}
+.jobs >div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width:100%;
+  margin: 10px;
+}
+.jobs a{
+    text-decoration: none;
+    padding:10px 30px;
+    border-radius: 4px;
+
+    background-color: #ebebeb;
+}
+.jobs a:hover{
+
+    background-color: #dddddd;
+}
     
 </style>

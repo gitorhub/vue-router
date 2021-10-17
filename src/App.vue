@@ -41,9 +41,22 @@
   #nav {
     padding: 30px;
   }
+  body{
+    background:#2c3e50 url(https://source.unsplash.com/collection/190727/1600x900
+) no-repeat center center;
+background-size:cover;
+background-attachment: fixed;
+  }
+  *{
+    box-sizing: border-box;
+  }
+  
   .container {
     max-width: 768px;
-    margin: 0 auto;
+    margin: 50px auto;
+    background: #ffffffe8;
+    padding: 20px;
+    border-radius: 4px;
   }
   #nav a {
     font-weight: bold;
