@@ -63,9 +63,9 @@ const routes = [
   ```
 
   ```javascript
-  console.log(this.$router)  //history
+  console.log(this.$router)  //shows history 
   
-  console.log( this.$route)   //location
+  console.log( this.$route)   //shows location
 
 
   ```
