@@ -40,7 +40,7 @@ export default {
   display: flex;
   justify-content: center;
   align-items: center;
-  width:100%;
+  width:25%;
   margin: 10px;
 }
 .jobs a{
